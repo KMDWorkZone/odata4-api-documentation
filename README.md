@@ -1,4 +1,9 @@
 # OData4 examples and documentation
-See the [wiki](https://github.com/KMDWorkZone/odata4-api-documentation/wiki) for general documentation.
+See the [wiki](https://github.com/KMDWorkZone/odata4-api-documentation/wiki) for WorkZone specific documentation.
 
 See project OnBehalfOfAsyncOdata4 for getting started with WorkZone OData. It demonstrates asynchronious calls to OData4. OnbehalfOf can be enabled.
+
+For general documentation, see
+- (Official documentation site, OData.org)[https://www.odata.org/]
+- (Odata on github([https://github.com/odata]
+- (Getting started with OData Client)[https://learn.microsoft.com/en-us/odata/client/getting-started]
