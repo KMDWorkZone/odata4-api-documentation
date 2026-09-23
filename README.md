@@ -1,2 +1,4 @@
-# odata4-api-documentation
-Documentation for the WorkZone OData4 API
+# OData4 documentation
+See the wiki for general documentation.
+
+See project OnBehalfOfAsyncOdata4 for getting started with WorkZone OData..
