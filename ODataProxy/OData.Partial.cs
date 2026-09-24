@@ -17,11 +17,11 @@ namespace WorkZone
                 tenantId: "", // TODO: Add your tenant ID here
                 clientId: "", // TODO: Add your client ID here
                 clientSecret: "", // TODO: Add your client secret here
-                workzoneApplicationIdUri: "" // TODO: Add your WorkZone application ID URI here
+                workzoneApplicationIdUri: "" // TODO: Add your WorkZone application ID URI here - ex: https://blabla.workzone.cloud
             );
 
 
-        public OData() : this(new Uri("")) // TODO: Add your OData service URI here
+        public OData() : this(new Uri("")) // TODO: Add your OData service URI here - ex: https://blabla.workzone.cloud/OData4/
         {
         }
 
