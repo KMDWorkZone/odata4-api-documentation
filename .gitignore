@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ODataProxy/obj
+/WorkZoneOData4Samples/.vs
+/WorkZoneOData4Samples/bin/Debug/net10.0
+/WorkZoneOData4Samples/obj
+/ODataProxy/bin/Debug/net10.0

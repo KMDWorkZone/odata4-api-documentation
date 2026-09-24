@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ODataProxy/ODataProxy.csproj" Id="0961133a-c6b3-43c8-9a13-3b27bc7134e1" />
+  <Project Path="Samples.csproj" />
+</Solution>
