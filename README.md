@@ -6,6 +6,6 @@ See project OnBehalfOfAsyncOdata4 for getting started with WorkZone OData. It de
 Use the stored WorkZone.OData4.Client.dll to take advantage of WorkZone specific features.
 
 For general documentation, see
-- (Official documentation site, OData.org)[https://www.odata.org/]
-- (Odata on github([https://github.com/odata]
-- (Getting started with OData Client)[https://learn.microsoft.com/en-us/odata/client/getting-started]
+- (Official protocol documentation site, OData.org)[https://www.odata.org/]
+- (Microsoft OData Libraries on github([https://github.com/odata]
+- (Getting started with Microsoft OData Client)[https://learn.microsoft.com/en-us/odata/client/getting-started]
