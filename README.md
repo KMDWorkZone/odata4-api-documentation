@@ -3,6 +3,9 @@ See project WorkZoneOData4Samples for getting started with WorkZone OData4. It d
 The WorkZone.OData4.Client.dll adds a number of extensions to simplify OData4 client code.
 
 For general documentation, see
-- (Official protocol documentation site, OData.org)[https://www.odata.org/]
-- (Microsoft OData Libraries on github([https://github.com/odata]
-- (Getting started with Microsoft OData Client)[https://learn.microsoft.com/en-us/odata/client/getting-started]
+- Official protocol documentation site, OData.org [https://www.odata.org/]
+- Microsoft OData Libraries on github [https://github.com/odata]
+- Getting started with Microsoft OData Client [https://learn.microsoft.com/en-us/odata/client/getting-started]
+
+For WorkZone specific documentation, see
+- the Wiki [https://github.com/KMDWorkZone/odata4-api-documentation/wiki]
