@@ -38,6 +38,7 @@ namespace WorkZone
             ODataRequestFeatures.UseLogApplication = "WorkZone.Uffe.Demo";
             ODataRequestFeatures.OmitNullValues = true;
             ODataRequestFeatures.GetAccessToken = azureAuthentication.GetAccessToken;
+            ODataRequestFeatures.AcceptLanguage = "da-DK";
         }
     }
 }
